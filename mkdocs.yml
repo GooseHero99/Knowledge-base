@@ -28,3 +28,5 @@ plugins:
 
 nav:
   - Home: index.md
+  - Guides: 
+    - Getting Started: Guides/Getting-Started.md
