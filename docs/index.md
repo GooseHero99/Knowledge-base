@@ -6,5 +6,5 @@ This is the root of my technical documentation.
 • [ ] Push to GitHub to deploy.  
 
 
-##Documentation Structure
+## Documentation Structure  
 Can organize files into folders to create **categories**.
