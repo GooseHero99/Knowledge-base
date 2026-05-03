@@ -30,3 +30,6 @@ nav:
   - Home: index.md
   - Guides: 
     - Getting Started: Guides/Getting-Started.md
+  - Security+: security-plus/index.md
+  - Job Preparation: job-prep/index.md
+  - Concepts : concepts/index.md
