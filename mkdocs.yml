@@ -33,3 +33,12 @@ nav:
   - Security+: security-plus/index.md
   - Job Preparation: job-prep/index.md
   - Concepts : concepts/index.md
+
+markdown_extensions: 
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight: 
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
